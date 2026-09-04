@@ -9,7 +9,7 @@
 
 | Metric | Performance | Description |
 | :--- | :--- | :--- |
-| **Initial Capital** | ₹6,00,000 | Backtest Period: 2021/01/01 to 2026/09/04 |
+| **Initial Capital** | ₹60,00,000 | Backtest Period: 2021/01/01 to 2026/09/04 |
 | **Net Wealth (Take-Home)** | **₹4,72,56,142** | Net Profit: **₹4,12,56,142** |
 | **Post-Tax CAGR** | **43.9%** | Net Compounded Annual Growth Rate |
 | **Annualized Alpha** | **32.50%** | Alpha generated over Nifty Midcap Index |
